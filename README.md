@@ -1,5 +1,6 @@
 ### Hi there 👋, My Name is Sahrial.
 - 🔭 I’m a third-year student at Universitas Bengkulu
+- a person who has a high curiousity with new technology
 - 🌱 I’m currently learning PHP, Kotlin, and Python
 - 📫 How to reach me: 
   -  Email : sahrialishak@gmail.com
