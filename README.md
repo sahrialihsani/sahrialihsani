@@ -7,5 +7,7 @@
   - Email: sahrialishak@gmail.com
   - Instagram: @sahrial_ihsani
   - LinkedIn: sahrial-ihsani-ishak
-  
-- ![Sahrial's GitHub stats](https://github-readme-stats.vercel.app/api?username=sahrialihsani&show_icons=true&theme=cobalt)
+
+
+
+![Sahrial's GitHub stats](https://github-readme-stats.vercel.app/api?username=sahrialihsani&show_icons=true&theme=cobalt)
